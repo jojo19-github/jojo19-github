@@ -1,5 +1,12 @@
 ### Hi there 👋
-<p> Récemment reconvertie dans le domaine de l'informatique, particulièrement en tant que **développeur web**, je découvre les méthodes et les différents langages de développement web.
+ Récemment reconvertie dans le domaine de l'informatique, particulièrement en tant que **développeur web**, je découvre les méthodes et les différents langages de développement web et j'adore. 
+ Vous pouvez me retrouvez sur:
+ *Facebook
+ *Instagram
+ *LinkedIn
+
+ 
+ 
 <!--
 **jojo19-github/jojo19-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
